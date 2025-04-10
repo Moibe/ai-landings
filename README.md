@@ -1,1 +1,1 @@
-Esto es otro readme.
+/usr/share/nginx/html
